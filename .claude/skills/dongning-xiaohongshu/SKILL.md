@@ -1,9 +1,9 @@
 ---
-name: xiaohongshu-growth-hooks
+name: dongning-xiaohongshu
 description: 抓取并分析小红书热门内容的爆点结构。适用于用户要求在小红书搜某主题（如个人成长）并输出热门帖子总结、爆款规律、内容选题公式时；优先使用 playwright-cli，以单浏览器持久会话多标签方式完成检索与分析。
 ---
 
-# Xiaohongshu Growth Hooks
+# Dongning Xiaohongshu
 
 ## Overview
 
